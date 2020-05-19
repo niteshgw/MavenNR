@@ -14,8 +14,6 @@ import NRAI.pages.NraiDashboardPage;
 import NRAI.pages.NraiDocumentWriteUpPage;
 import NRAI.pages.NraiLoginPage;
 
-
-
 //@Listeners(TestListeners.class)    //Listen from TestListers class. which is created under Test Util Package.
 public class NraiDocumentWriteTest extends BaseClassMaven{
 	
@@ -23,7 +21,6 @@ public class NraiDocumentWriteTest extends BaseClassMaven{
 	NraiDocumentWriteTest doctest;
 	NraiDocumentWriteUpPage docpage;
 	NraiDashboardPage dashboardPage;
-	    //Test
 	
 	public NraiDocumentWriteTest(){
 		
@@ -65,7 +62,6 @@ public class NraiDocumentWriteTest extends BaseClassMaven{
 		Assert.assertEquals(true, false);
 		
 	}
-	
 	
 	@Test(priority=2,dataProvider="getTestData")
 	public void NraiDocTest(String TitleText, String Paragraph){
