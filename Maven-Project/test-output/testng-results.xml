@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51387" started-at="2020-05-18T16:29:31Z" finished-at="2020-05-18T16:30:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51387" started-at="2020-05-18T16:29:31Z" finished-at="2020-05-18T16:30:23Z">
+      <class name="NRAI.test.NraiLoginPageTest">
+        <test-method status="PASS" signature="loginInitlizarion()[pri:0, instance:NRAI.test.NraiLoginPageTest@2b98378d]" name="loginInitlizarion" is-config="true" duration-ms="34109" started-at="2020-05-18T21:59:31Z" finished-at="2020-05-18T22:00:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginInitlizarion -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:NRAI.test.NraiLoginPageTest@2b98378d]" name="logintest" duration-ms="17253" started-at="2020-05-18T22:00:05Z" finished-at="2020-05-18T22:00:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+      </class> <!-- NRAI.test.NraiLoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
