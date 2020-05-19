@@ -23,6 +23,7 @@ public class NraiDocumentWriteTest extends BaseClassMaven{
 	NraiDocumentWriteTest doctest;
 	NraiDocumentWriteUpPage docpage;
 	NraiDashboardPage dashboardPage;
+	    //Test
 	
 	public NraiDocumentWriteTest(){
 		
